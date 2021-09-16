@@ -88,3 +88,14 @@ footer {
     text-align: center;
     background-color: rgb(131, 177, 179);
 }
+
+#go-back {
+    text-decoration: none;
+    position: fixed;
+    left: 95%;
+    top: 90%;
+}
+
+#go-back img{
+    width: 3.5rem;
+}
